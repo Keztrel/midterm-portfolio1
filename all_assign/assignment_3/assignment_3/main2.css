@@ -1,0 +1,38 @@
+h1, h2{
+    background-color: burlywood;
+    text-decoration: underline;
+}
+
+.div_display{
+    width: 30%;
+    display: flex;
+
+}
+
+body{
+    background-image: url(pic/sprinkle.jpg);
+}
+
+.flex_container{
+    display: flex;
+    width: 80%;
+    flex-wrap: nowrap;
+    
+}
+
+#cinamon1_pic{
+    width: 20%;
+}
+
+#cinamon2_pic{
+    float: right;
+    width: 20%;
+
+}
+
+.flex_container_sup{
+    border: 2px solid rosybrown;
+    width: 70%;
+    height: 70%;
+    margin: 20px;
+}

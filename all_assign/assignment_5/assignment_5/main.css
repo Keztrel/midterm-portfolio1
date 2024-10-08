@@ -1,0 +1,8 @@
+body{
+    background-image: url(pic/blue_5.gif);
+    background-size: cover;
+    size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: rgb(19, 121, 175);
+}

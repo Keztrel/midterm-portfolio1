@@ -1,0 +1,12 @@
+body {
+    background-image: url(pic/pixel.gif);
+}
+
+fieldset {
+    background-color: white;
+}
+
+legend {
+    background-color: pink;
+    
+}
